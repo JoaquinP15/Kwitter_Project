@@ -1,0 +1,21 @@
+body
+{
+    background-image: url("https://g.foolcdn.com/editorial/images/451536/twitter-bird-on-blue-background.png");
+}
+
+button{
+    font-family: 'Carter One', cursive;
+    width: 150px;
+}
+
+h1{
+    font-family: 'Carter One', cursive;
+}
+
+input{
+    font-family: 'Carter One', cursive;
+}
+
+label{
+    font-family: 'Carter One', cursive;
+}
